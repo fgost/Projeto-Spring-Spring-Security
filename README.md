@@ -1,5 +1,3 @@
-# Projeto-Spring-Spring-Security
-
 # Criação de um pequeno Blog
 Criação de um blog em Spring, Thymeleaf e Spring Security
 
